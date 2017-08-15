@@ -22,7 +22,9 @@
 17. Switch to _Screen1_ by selecting it from the button near the top.
 18. Add the following blocks from **Button1** and **Control**.
     ![](Button1BlocksA.png)
-19. Next select **Text** and scroll up to the top and take the empty text block \(it's at the very top\)
+19. Next select **Text** take the empty text block \(you might have to scroll up, it's at the very top\) and snap it into place. Click inside it and type "Screen2".
+   ![](Button1BlocksB.png)
+20. Your app is done! 
 
 
 
