@@ -16,6 +16,8 @@
 12. Under **Properties**, change the **Text** to "This app will self destruct in 5 seconds"
 13. Under **Sensors** in the **Palette**, find the **Clock** and drag it onto the screen. It's an invisible component, so you won't see it on the screen!
 14. In the **Properties**, change the **TimerInterval** to *5000*.
+15. Click **Blocks** in the top right. Click on *Clock1* and take out the `When Clock1.Timer do` block. 
+16. Now click **Control** under the **Built-in** blocks and find the `close application` block. Grab it and snap it into your other block.
 
 
 
