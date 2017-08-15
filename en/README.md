@@ -1,6 +1,5 @@
 1. Go to App Inventor and select Start a new project from the Projects menu. Give your project a name.
 2. In the **Palette** on the left, click **Layout** and drag a **VerticalArrangement** onto the phone screen. 
-   ![](PaletteVertArr.png)
 3. In the **Properties** pane on the right, click on the **Height** property, select **Fill parent** and click **OK**. Do the same for the **Width** property. 
    ![](PropsHeightWidth.png)
 4. Now look in the **Palette** under **User Interface** and drag a **Button** onto your **VerticalArrangement** on the phone screen.
