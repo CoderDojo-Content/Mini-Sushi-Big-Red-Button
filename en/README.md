@@ -24,7 +24,7 @@
     ![](Button1BlocksA.png)
 19. Next select **Text** take the empty text block \(you might have to scroll up, it's at the very top\) and snap it into place. Click inside it and type "Screen2".
    ![](Button1BlocksB.png)
-20. Your app is done! 
+20. Your app is done! Try it out using the Emulator under **Connect** in the menu or select QR Code option under **Build** to get a link to install the app on your Android device.
 
 
 
