@@ -4,9 +4,9 @@
    ![](PropsHeightWidth.png)
 4. Now look in the **Palette** under **User Interface** and drag a **Button** onto your **VerticalArrangement** on the phone screen.
 5. Over on the right, under **Components**, click on the _VerticalArrangement1_ component. In the **Properties** pane, change the **AlignHorizontal** and **AlignVertical** both to _Center_. Do you see the button move to the middle of the phone screen?
-   ![](VertArrAlignProps.png)
+   ![](VertArrAlignProps_258_800.png)
 6. Select _Button1_ and in the **Properties**, scroll down and change the **Text** to "Do not press". If you want, set the **BackgroundColor** and various **Font** properties too.
-   ![](ButtonPropsFont.png)
+   ![](ButtonPropsFont_290_800.png)
 8. Change the **Height** and **Width** properties to _150 pixels_ and change the **Shape** to _oval_.
 10. Click the **Add Screen** button near the top of the page. Leave the name as Screen2 and click **OK**.
 11. When the new screen loads, find the **Label** component under **User Interface** in the Palette and drag it onto the screen. Under **Properties**, change the **Text** to "This app will self destruct in 5 seconds".
