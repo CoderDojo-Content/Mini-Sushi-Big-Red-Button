@@ -1,10 +1,9 @@
 1. Go to App Inventor and select Start a new project from the Projects menu. Give your project a name.
 2. In the **Palette** on the left, click **Layout** and drag a **VerticalArrangement** onto the phone screen. 
 3. In the **Properties** pane on the right, click on the **Height** property, select **Fill parent** and click **OK**. Do the same for the **Width** property. 
-   ![](PropsHeightWidth_207_800.png)
 4. Now look in the **Palette** under **User Interface** and drag a **Button** onto your **VerticalArrangement** on the phone screen.
 5. Over on the right, under **Components**, click on the _VerticalArrangement1_ component. In the **Properties** pane, change the **AlignHorizontal** and **AlignVertical** both to _Center_. Do you see the button move to the middle of the phone screen?
-   ![](VertArrAlignProps_258_800.png)
+   ![](VertArrAlignProps2_258_800.png)
 6. Select _Button1_ and in the **Properties**, scroll down and change the **Text** to "Do not press". If you want, set the **BackgroundColor** and various **Font** properties too.
    ![](ButtonPropsFont_290_800.png)
 8. Change the **Height** and **Width** properties to _150 pixels_ and change the **Shape** to _oval_.
