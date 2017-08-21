@@ -1,7 +1,7 @@
 1. Go to App Inventor and select Start a new project from the Projects menu. Give your project a name.
 2. In the **Palette** on the left, click **Layout** and drag a **VerticalArrangement** onto the phone screen. 
 3. In the **Properties** pane on the right, click on the **Height** property, select **Fill parent** and click **OK**. Do the same for the **Width** property. 
-   ![](PropsHeightWidth.png)
+   ![](PropsHeightWidth_207_800.png)
 4. Now look in the **Palette** under **User Interface** and drag a **Button** onto your **VerticalArrangement** on the phone screen.
 5. Over on the right, under **Components**, click on the _VerticalArrangement1_ component. In the **Properties** pane, change the **AlignHorizontal** and **AlignVertical** both to _Center_. Do you see the button move to the middle of the phone screen?
    ![](VertArrAlignProps_258_800.png)
@@ -12,12 +12,12 @@
 11. When the new screen loads, find the **Label** component under **User Interface** in the Palette and drag it onto the screen. Under **Properties**, change the **Text** to "This app will self destruct in 5 seconds".
 13. Under **Sensors** in the **Palette**, find the **Clock** and drag it onto the screen. It's an invisible component, so you won't see it on the screen! In the **Properties**, change the **TimerInterval** to _5000_.
 15. Click **Blocks** in the top right. Click on _Clock1_ and take out the `When Clock1.Timer do` block. Now click **Control** under the **Built-in** blocks, grab the `close application` block and snap it into your other block.
-    ![](TimerBlock.png)
+    ![](TimerBlock_124_800.png)
 17. Switch to _Screen1_ by selecting it from the button near the top.
 18. Add the following blocks from **Button1** and **Control**.
-    ![](Button1BlocksA.png)
+    ![](Button1BlocksA_79_800.png)
 19. Under **Built-in** select **Text** take the empty text block \(you might have to scroll up, it's at the very top\) and snap it into place. Click inside it and type "Screen2".
-   ![](Button1BlocksB.png)
+   ![](Button1BlocksB_73_800.png)
 20. Your app is done! Try it out using the Emulator under **Connect** in the menu or select QR Code option under **Build** to get a link to install the app on your Android device.
 
 {% callout %}To learn how to make a quiz and earn yourself a digital badge, try the Beginner App Inventor Sushi Cards at dojo.soy/quiz-game
