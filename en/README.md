@@ -19,7 +19,7 @@
    ![](Button1BlocksB_73_800.png)
 20. Your app is done! Try it out using the Emulator under **Connect** in the menu or select QR Code option under **Build** to get a link to install the app on your Android device.
 
-{% callout %}To learn how to make a quiz and earn yourself a digital badge, try the Beginner App Inventor Sushi Cards at dojo.soy/begin-sushi-apps
+{% callout %}To learn how to make a quiz and earn yourself a digital badge, try the Beginner App Inventor Sushi Cards at dojo.soy/mini-apps-begin
 {% endcallout %}
 
 
