@@ -18,7 +18,7 @@
 19. Under **Built-in** select **Text** take the empty text block \(you might have to scroll up, it's at the very top\) and snap it into place. Click inside it and type "Screen2".
    ![](Button1BlocksB_73_800.png)
 20. Your app is done! Try it out using the Emulator under **Connect** in the menu or select QR Code option under **Build** to get a link to install the app on your Android device.
- * **Note:** To install via QR Code you need to turn on "Allow installation of apps from unknown sources"
+ * **Note:** To install via QR Code you need to turn on "Allow installation of apps from unknown sources" on your Android device.
     ![](Button_160_800.png) 
 
 {% callout %}To learn how to make a quiz and earn yourself a digital badge, try the Beginner App Inventor Sushi Cards at dojo.soy/mini-apps-begin
