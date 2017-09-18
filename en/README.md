@@ -22,7 +22,7 @@
     ![](Button_160_800.png) 
 ![](whitespace_80_800.png)
 
-{% callout %}To learn how to make a quiz and earn yourself a digital badge, try the Beginner App Inventor Sushi Cards at dojo.soy/mini-apps-begin
+{% callout %}This is just the beginning! Learn how to make a quiz in the Beginner App Inventor Sushi Cards at dojo.soy/mini-apps-begin, and earn yourself a digital badge too!
 {% endcallout %}
 
 
