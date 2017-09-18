@@ -20,6 +20,7 @@
 20. Your app is done! Try it out using the Emulator under **Connect** in the menu or select QR Code option under **Build** to get a link to install the app on your Android device.
  * **Note:** To install via QR Code you need to turn on "Allow installation of apps from unknown sources" on your Android device.
     ![](Button_160_800.png) 
+![](whitespace_50_800.png)
 
 {% callout %}To learn how to make a quiz and earn yourself a digital badge, try the Beginner App Inventor Sushi Cards at dojo.soy/mini-apps-begin
 {% endcallout %}
