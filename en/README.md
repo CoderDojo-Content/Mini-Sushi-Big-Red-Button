@@ -36,7 +36,7 @@
     ![](Button_160_800.png) 
 ![](whitespace_70_800.png)
 
-{% callout %}This is just the beginning! Learn how to make a quiz in the Beginner App Inventor Sushi Cards at >>>> dojo.soy/mini-apps-begin, and earn yourself a digital badge too! To see this card online or print out more, go to ---> dojo.soy/mini-sushi-appinv
+{% callout %}This is just the beginning! Learn how to make a quiz in the Beginner App Inventor Sushi Cards at ~~ dojo.soy/mini-apps-begin ~~, and earn yourself a digital badge too! To see this card online or print out more, go to ~~ dojo.soy/mini-sushi-appinv ~~
 {% endcallout %}
 
 
