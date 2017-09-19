@@ -6,24 +6,24 @@
 
 4. Now look in the **Palette** under **User Interface** and drag a **Button** onto your **VerticalArrangement** on the phone screen.
 
-5. Over on the right, under **Components**, click on the _VerticalArrangement1_ component. In the **Properties** pane, change the **AlignHorizontal** and **AlignVertical** both to _Center_. Do you see the button move to the middle of the phone screen?
+5. Over on the right, under **Components**, click on the `VerticalArrangement1` component. In the **Properties** pane, change the **AlignHorizontal** and **AlignVertical** both to _Center_. Did you see the button move to the middle of the phone screen?
    ![](VertArrAlignProps2_258_850.png)
    
-6. Select _Button1_ and in the **Properties**, scroll down and change the **Text** to "Do not press". If you want, change the **BackgroundColor** and various **Font** properties too.
+6. Select `Button1` and in the **Properties**, scroll down and change the **Text** to "Do not press". If you want, change the **BackgroundColor** and various **Font** properties too.
    ![](ButtonPropsFont_290_900.png)
    
-7. Change the **Height** and **Width** properties to _150 pixels_ and change the **Shape** to _oval_.
+7. Change the **Height** and **Width** properties to `150` **pixels** and change the **Shape** to **oval**.
 
 8. Click the **Add Screen** button near the top of the page. Leave the name as Screen2 and click **OK**.
 
 9. When the new screen loads, find the **Label** component under **User Interface** in the Palette and drag it onto the screen. Under **Properties**, change the **Text** to "This app will self destruct in 5 seconds".
 
-10. Under **Sensors** in the **Palette**, find the **Clock** and drag it onto the screen. It's an invisible component, so you won't see it on the screen. In the **Properties**, change the **TimerInterval** to _5000_.
+10. Under **Sensors** in the **Palette**, find the **Clock** and drag it onto the screen. It's an invisible component, so you won't see it on the screen. In the **Properties**, change the **TimerInterval** to `5000`.
 
-11. Click **Blocks** in the top right. Click on _Clock1_ and take out the `When Clock1.Timer do` block. Now click **Control** under the **Built-in** blocks, grab the `close application` block and snap it into your other block.
+11. Click **Blocks** in the top right. Click on `Clock1` and take out the `When Clock1.Timer do` block. Now click **Control** under the **Built-in** blocks, grab the `close application` block and snap it into your other block.
     ![](TimerBlock_124_800.png)
     
-12. Switch to _Screen1_ by selecting it from the button near the top.
+12. Switch to `Screen1` by selecting it from the button near the top.
 
 13. Add the following blocks from **Button1** and **Control**.
     ![](Button1BlocksA_79_800.png)
