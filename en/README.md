@@ -36,7 +36,7 @@
     ![](Button_160_800.png) 
 ![](whitespace_70_800.png)
 
-{% callout %}<div style="padding-right: 15px; padding-top: 0px; margin-top: 0px;"><span style="color: #000000; margin-right: 10px;">This is just the beginning! Learn how to make a quiz in the Beginner App Inventor Sushi Cards at <b>http://dojo.soy/mini-apps-begin</b>, and earn a digital badge too! To see this card online or print out more, go to <b>http://dojo.soy/mini-sushi-appinv</b> </span></div>
+{% callout %}<div style="padding-right: 15px; padding-top: 0; margin-top: 0;"><span style="color: #000000; margin-right: 10px;">This is just the beginning! Learn how to make a quiz in the Beginner App Inventor Sushi Cards at <b>http://dojo.soy/mini-apps-begin</b>, and earn a digital badge too! To see this card online or print out more, go to <b>http://dojo.soy/mini-sushi-appinv</b> </span></div>
 {% endcallout %}
 
 
