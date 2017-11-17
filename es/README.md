@@ -7,7 +7,7 @@
 4. Ahora, vete a **Palette** en **User Interface** y arrastra un **Button** en tu **VerticalArrangement** de la pantalla del tel�fono.
 
 5. Arriba a la derecha, en **Components**, haz clic en el componente `VerticalArrangement1`. En el panel **Properties**, ajusta **AlignHorizontal** y **AlignVertical** en _Center_. �Viste el bot�n moverse al medio de la pantalla del tel�fono?
-   ![](VertArrAlignProps2_258_8-0.png)
+   ![](VertArrAlignProps2_258_800.png)
    
 6. Selecciona `Button1` y, en **Properties**, despl�zate hacia abajo y cambia **Text** a "Do not press". Si lo deseas, cambia tambi�n las propiedades de **BackgroundColor** y **Font**.
    ![](ButtonPropsFont_290_900.png)
@@ -26,10 +26,10 @@
 12. Accede a `Screen1` seleccion�ndola en el bot�n cerca de la parte superior.
 
 13. A�ade los siguientes bloques de **Button1** y **Control**.
-    ![](Button1BlocksA_79_800.png)
+    ![](Button1BlocksA_64_800.png)
     
 14. En **Built-in** selecciona **Text** saca el bloque de texto vac�o \(es posible que tengas que desplazarte, est� arriba del todo\) y col�calo en posici�n. Haz clic dentro y escribe "Screen2".
-   ![](Button1BlocksB_73_800.png)
+   ![](Button1BlocksB_66_800.png)
    
 15. �Has acabado tu aplicaci�n! Prueba usando Emulator en **Connect** en el men� o selecciona una opci�n de c�digo QR en **Build** para obtener un enlace para la instalaci�n de la aplicaci�n en tu dispositivo Android.
  * **Nota:** Para instalar mediante c�digos QR, debes activar "Permitir la instalaci�n de aplicaciones de fuentes desconocidas" en tu dispositivo Android.
