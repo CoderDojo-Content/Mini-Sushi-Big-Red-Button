@@ -7,7 +7,7 @@
 4. Ora nella **Palette** sotto **User Interface** (Interfaccia utente), trascina un **Button** (Pulsante) nella **VerticalArrangement** (Disposizione verticale) sulla schermata del telefono.
 
 5. Sulla destra, alla voce **Components** (Componenti), fai clic su `VerticalArrangement1`. Nel pannello **Properties** (Propriet�), modifica **AlignHorizontal** (Allineamento orizzontale) e **AlignVertical** (Allineamento verticale) selezionando _Center_ (Centro) per entrambi. Hai notato che il pulsante si � spostato al centro della schermata del telefono?
-   ![](VertArrAlignProps2_258_800.png)
+   ![](VertArrAlignProps_258_800.png)
    
 6. Seleziona `Button1` e nelle **Properties** (Propriet�), scorri verso il basso e modifica il **Text** (Testo) digitando "Non premere". Se vuoi, puoi modificare il **BackgroundColor** (Colore di sfondo) e diverse propriet� dei **Font** (Caratteri).
    ![](ButtonPropsFont_290_900.png)
