@@ -7,7 +7,7 @@
 4. Ahora, vete a **Palette** en **User Interface** y arrastra un **Button** en tu **VerticalArrangement** de la pantalla del tel�fono.
 
 5. Arriba a la derecha, en **Components**, haz clic en el componente `VerticalArrangement1`. En el panel **Properties**, ajusta **AlignHorizontal** y **AlignVertical** en _Center_. �Viste el bot�n moverse al medio de la pantalla del tel�fono?
-   ![](VertArrAlignProps2_258_800.png)
+   ![](VertArrAlignProps_258_800.png)
    
 6. Selecciona `Button1` y, en **Properties**, despl�zate hacia abajo y cambia **Text** a "Do not press". Si lo deseas, cambia tambi�n las propiedades de **BackgroundColor** y **Font**.
    ![](ButtonPropsFont_290_900.png)
