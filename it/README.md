@@ -7,7 +7,7 @@
 4. Ora nella **Palette** sotto **User Interface** (Interfaccia utente), trascina un **Button** (Pulsante) nella **VerticalArrangement** (Disposizione verticale) sulla schermata del telefono.
 
 5. Sulla destra, alla voce **Components** (Componenti), fai clic su `VerticalArrangement1`. Nel pannello **Properties** (Propriet�), modifica **AlignHorizontal** (Allineamento orizzontale) e **AlignVertical** (Allineamento verticale) selezionando _Center_ (Centro) per entrambi. Hai notato che il pulsante si � spostato al centro della schermata del telefono?
-   ![](VertArrAlignProps2_258_850.png)
+   ![](VertArrAlignProps2_258_800.png)
    
 6. Seleziona `Button1` e nelle **Properties** (Propriet�), scorri verso il basso e modifica il **Text** (Testo) digitando "Non premere". Se vuoi, puoi modificare il **BackgroundColor** (Colore di sfondo) e diverse propriet� dei **Font** (Caratteri).
    ![](ButtonPropsFont_290_900.png)
@@ -26,10 +26,10 @@
 12. Passa a `Screen1` selezionandolo dal relativo pulsante posizionato nella parte superiore della schermata.
 
 13. Aggiungi i seguenti blocchi da **Button1** e **Control** (Controllo).
-    ![](Button1BlocksA_79_800.png)
+    ![](Button1BlocksA_65_800.png)
     
 14. All�interno di **Built-in** (Integrati), seleziona **Text** (Testo), trascina il blocco di testo vuoto \(scorri verso l�alto, si trova nella parte superiore\) e inseriscilo in posizione. Clicca all�interno e digita "Screen2".
-   ![](Button1BlocksB_73_800.png)
+   ![](Button1BlocksB_66_800.png)
    
 15. La app � terminata! Provala usando l�Emulator sotto **Connect** (Connetti) del menu o seleziona l�opzione QR Code (Codice QR) sotto **Build** (Costruisci) per ottenere il link per installare la app sul tuo dispositivo Android.
  * **Nota:** Per l�installazione tramite Codice QR, dovrai attivare l�opzione "Allow installation of apps from unknown sources" (Consenti l�installazione di app da fonti sconosciute) sul tuo dispositivo Android.
@@ -38,10 +38,3 @@
 
 {% callout %}<span style="color: #000000; margin-right: 10px;">Questo � solo l�inizio! Impara come preparare un quiz nelle Sushi Card per principianti di App Inventor all�indirizzo <b>http://dojo.soy/mini-apps-begin</b> e guadagnati<br /> anche un adesivo digitale! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-appinv</b> </span>
 {% endcallout %}
-
-
-
-
-
-
-
