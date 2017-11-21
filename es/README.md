@@ -7,7 +7,7 @@
 4. Ahora, vete a **Palette** en **User Interface** y arrastra un **Button** en tu **VerticalArrangement** de la pantalla del teléfono.
 
 5. Arriba a la derecha, en **Components**, haz clic en el componente `VerticalArrangement1`. En el panel **Properties**, ajusta **AlignHorizontal** y **AlignVertical** en _Center_. ¿Viste el botón moverse al medio de la pantalla del teléfono?
-   ![](VertArrAlignProps2_258_800.png)
+   ![](VertArrAlignProps_258_800.png)
    
 6. Selecciona `Button1` y, en **Properties**, desplázate hacia abajo y cambia **Text** a "Do not press". Si lo deseas, cambia también las propiedades de **BackgroundColor** y **Font**.
    ![](ButtonPropsFont_290_900.png)
@@ -36,7 +36,7 @@
     ![](Button_160_800.png) 
 ![](whitespace_70_800.png)
 
-{% callout %}<span style="color: #000000; margen derecho: 10px;">¡Esto solamente es el comienzo! Aprende a crear un concurso de preguntas en Beginner App Inventor Sushi Cards en <b>http://dojo.soy/mini-apps-begin</b>, ¡y gana<br /> una insignia digital! Para ver esta tarjeta online o para imprimir más, visita <b>http://dojo.soy/mini-sushi-appinv</b> </span>
+{% callout %}<span style="color: #000000; margen derecho: 10px;">¡Esto solamente es el comienzo! Aprende a crear un concurso de preguntas en Beginner App Inventor Sushi Cards en <b>http://dojo.soy/mini-apps-begin</b>, ¡y gana una insignia digital! Para ver esta tarjeta online o para imprimir más, visita <b>http://dojo.soy/mini-sushi-appinv</b> </span>
 {% endcallout %}
 
 

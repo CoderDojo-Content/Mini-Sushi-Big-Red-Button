@@ -7,7 +7,7 @@
 4. Ora nella **Palette** sotto **User Interface** (Interfaccia utente), trascina un **Button** (Pulsante) nella **VerticalArrangement** (Disposizione verticale) sulla schermata del telefono.
 
 5. Sulla destra, alla voce **Components** (Componenti), fai clic su `VerticalArrangement1`. Nel pannello **Properties** (Proprietà), modifica **AlignHorizontal** (Allineamento orizzontale) e **AlignVertical** (Allineamento verticale) selezionando _Center_ (Centro) per entrambi. Hai notato che il pulsante si è spostato al centro della schermata del telefono?
-   ![](VertArrAlignProps2_258_800.png)
+   ![](VertArrAlignProps_258_800.png)
    
 6. Seleziona `Button1` e nelle **Properties** (Proprietà), scorri verso il basso e modifica il **Text** (Testo) digitando "Non premere". Se vuoi, puoi modificare il **BackgroundColor** (Colore di sfondo) e diverse proprietà dei **Font** (Caratteri).
    ![](ButtonPropsFont_290_900.png)
@@ -36,7 +36,7 @@
     ![](Button_160_800.png) 
 ![](whitespace_70_800.png)
 
-{% callout %}<span style="color: #000000; margin-right: 10px;">Questo è solo l’inizio! Impara come preparare un quiz nelle Sushi Card per principianti di App Inventor all’indirizzo <b>http://dojo.soy/mini-apps-begin</b> e guadagnati<br /> anche un adesivo digitale! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-appinv</b> </span>
+{% callout %}<span style="color: #000000; margin-right: 10px;">Questo è solo l’inizio! Impara come preparare un quiz nelle Sushi Card per principianti di App Inventor all’indirizzo <b>http://dojo.soy/mini-apps-begin</b> <br />e guadagnati anche un adesivo digitale! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-appinv</b> </span>
 {% endcallout %}
 
 
