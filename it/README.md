@@ -34,7 +34,7 @@
 15. La app è terminata! Provala usando l’Emulatore sotto **Connetti** del menu o seleziona l’opzione QR Code (Codice QR) sotto **Compila** per ottenere il link per installare la app sul tuo dispositivo Android.
  * **Nota:** Per l’installazione tramite Codice QR, dovrai attivare l’opzione "Consenti l’installazione di app da fonti sconosciute" sul tuo dispositivo Android.
     ![](Button_160_800.png) 
-![](whitespace_20_800.png)
+![](whitespace_10_800.png)
 
 {% callout %}<span style="color: #000000; margin-right: 10px;">Questo è solo l’inizio! Impara come preparare un quiz nelle Sushi Card per principianti di App Inventor all’indirizzo <b>http://dojo.soy/mini-apps-begin</b> <br />e guadagnati anche un adesivo digitale! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-appinv</b> </span>
 {% endcallout %}
